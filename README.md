@@ -9,4 +9,4 @@ source : https://bugs.launchpad.net/netplan/+bug/1759532
 3) systemctl restart systemd-network
 
 
-test alert Telegram & PushBullet
+test alert Telegram
